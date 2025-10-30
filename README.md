@@ -158,6 +158,8 @@ rolodex-cli/
                         │
                         └──────► LOOP BACK TO "Prompt: Full Name"
 
+```
+
 ## **🚀 Ejemplo de Ejecución**
 
 Full Name: Pepe Pérez García
